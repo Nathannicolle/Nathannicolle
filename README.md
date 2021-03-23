@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nathannicolle
 - 👀 I’m interested in web integration
-- 🌱 I’m currently learning php and mysql
+- 🌱 I’m currently learning php, mysql and JS (JavaScript)
 - 📫 How to reach me :
   * contact@nathannicolle.fr
   * instagram : @nathannicolle2
