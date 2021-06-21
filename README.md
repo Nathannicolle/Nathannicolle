@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nathannicolle
-- 👀 I’m interested in web integration
+- 👀 I’m interested in web integration and in front-end programming
 - 🌱 I’m currently learning php, mysql and JS (JavaScript)
 - 📫 How to reach me :
   * contact@nathannicolle.fr
