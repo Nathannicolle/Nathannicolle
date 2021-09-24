@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning php, mysql and JS (JavaScript)
 - 📫 How to reach me :
   * contact@nathannicolle.fr
-  * instagram : @nathannicolle2
+  * instagram : <a href="https://instagram.com/nathannicolle2">@nathannicolle2</a>
 
 <!---
 Nathannicolle/Nathannicolle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
