@@ -5,6 +5,7 @@
 - 📫 How to reach me :
   * contact@nathannicolle.fr
   * instagram : <a href="https://instagram.com/nathannicolle2">@nathannicolle2</a>
+  * discord : Nathan NICOLLE#3996
 
 <!---
 Nathannicolle/Nathannicolle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
