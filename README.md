@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <a href="https://github.com/Nathannicolle/">@Nathannicolle</a>
 - 🌐 My website is : https://nathannicolle.fr
-- 👀 I’m interested in web integration and in front-end programming
+- 👀 I’m interested in web integration and in fullstack programming
 - 🌱 I’m currently learning php, mysql and JS (JavaScript)
 - 📫 How to reach me :
   * contact@nathannicolle.fr
