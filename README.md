@@ -7,6 +7,21 @@
   * instagram : <a href="https://instagram.com/nathannicolle2">@nathannicolle2</a>
   * discord : Nathan NICOLLE#3996
 
+- 🆕 </> Current new languages/frameworks I learn :
+  * Ubiquity (PHP framework)
+  * Flutter/Dart
+
+- </> Languages/Frameworks I use/I('ve) learn(ed) :
+  * PHP
+  * JS
+  * MySQL/Mariadb
+  * Ubiquity (PHP framework)
+  * Flutter/Dart
+  * HTML/CSS
+  * Jquery
+  * Python
+  * C#
+  
 <!---
 Nathannicolle/Nathannicolle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
