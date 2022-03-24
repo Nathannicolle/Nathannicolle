@@ -17,8 +17,12 @@
   * MySQL/Mariadb
   * Ubiquity (PHP framework)
   * Flutter/Dart
+  * Java with :
+    * SpringMVC (Spring-boot)
+    * MinecraftForge
   * HTML/CSS
   * Jquery
+  * VueJS
   * Python
   * C#
   
