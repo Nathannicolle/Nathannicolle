@@ -20,7 +20,7 @@
   * Java with :
     * SpringMVC (Spring-boot)
     * MinecraftForge
-  * HTML/CSS
+  * HTML5/CSS3
   * Jquery
   * VueJS
   * Python
