@@ -8,8 +8,8 @@
   * discord : Nathan NICOLLE#3996
 
 - 🆕 </> Current new languages/frameworks I learn :
-  * Ubiquity (PHP framework)
-  * Flutter/Dart
+  * Java with :
+    * Android development
 
 - </> Languages/Frameworks I use/I('ve) learn(ed) :
   * PHP
@@ -20,6 +20,7 @@
   * Java with :
     * SpringMVC (Spring-boot)
     * MinecraftForge
+    * Android development
   * HTML5/CSS3
   * Jquery
   * VueJS
