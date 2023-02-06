@@ -8,7 +8,7 @@
   * discord : Nathan NICOLLE#3996
 
 - 🆕 </> Current new languages/frameworks I learn :
-  * Java with :
+  * Java and Kotlin with :
     * Android development
 
 - </> Languages/Frameworks I use/I('ve) learn(ed) :
@@ -17,6 +17,7 @@
   * MySQL/Mariadb
   * Ubiquity (PHP framework)
   * Flutter/Dart
+  * Kotlin
   * Java with :
     * SpringMVC (Spring-boot)
     * MinecraftForge
