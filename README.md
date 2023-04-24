@@ -10,6 +10,9 @@
 - 🆕 </> Current new languages/frameworks I learn :
   * Java and Kotlin with :
     * Android development
+    * Web development
+  * NextJS
+  * React
 
 - </> Languages/Frameworks I use/I('ve) learn(ed) :
   * PHP
@@ -25,6 +28,8 @@
   * HTML5/CSS3
   * Jquery
   * VueJS
+  * NextJS
+  * React
   * Python
   * C#
   
