@@ -8,15 +8,12 @@
   * discord : Nathan NICOLLE#3996
 
 - 🆕 </> Current new languages/frameworks I learn :
-  * Java and Kotlin with :
-    * Android development
-    * Web development
-  * NextJS
-  * React
+  * Angular
 
 - </> Languages/Frameworks I use/I('ve) learn(ed) :
   * PHP
-  * JS
+  * JavaScript (JS)
+  * TypeScript (TS)
   * MySQL/Mariadb
   * Ubiquity (PHP framework)
   * Flutter/Dart
@@ -30,6 +27,7 @@
   * VueJS
   * NextJS
   * React
+  * Angular
   * Python
   * C#
   
