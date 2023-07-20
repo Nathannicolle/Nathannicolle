@@ -1,7 +1,7 @@
 - 👋 Hi, I’m <a href="https://github.com/Nathannicolle/">@Nathannicolle</a>
 - 🌐 My website is : https://nathannicolle.fr
-- 👀 I’m interested in web integration and in fullstack programming
-- 🌱 I’m currently learning php in general and currently with Ubiquity Framework, mysql, JS (JavaScript) and Java
+- 👀 I’m interested in fullstack and mobile programming
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me :
   * contact@nathannicolle.fr
   * instagram : <a href="https://instagram.com/nathannicolle2">@nathannicolle2</a>
