@@ -5,7 +5,7 @@
 - 📫 How to reach me :
   * contact@nathannicolle.fr
   * instagram : <a href="https://instagram.com/nathannicolle2">@nathannicolle2</a>
-  * discord : Nathan NICOLLE#3996
+  * discord : nathannicolle
 
 - 🆕 </> Current new languages/frameworks I learn :
   * Angular
